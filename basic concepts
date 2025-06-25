@@ -1,4 +1,4 @@
-SOC 2/ISO
+SOC 2/ISO (compliance controls)
 
 SOC 2 (System and Organization Controls 2) - Evaluates how well a service organization manages data to protect the privacy and interests of its clients.
 Primarily used in the United States, common in SaaS and cloud providers.
@@ -10,3 +10,49 @@ Global standard, recognized internationally.
 If you’re a SaaS company working with U.S. clients, you’ll probably need SOC 2.
 If you operate globally or want a structured ISMS, ISO 27001 is usually preferred.
 Some companies get both to meet a wider range of client requirements.
+
+------- Blast Radius
+Definition:
+The blast radius is the extent of damage or impact that a security breach, misconfiguration, or system failure can cause.
+
+Think of it like this:
+In a physical explosion, the blast radius is how far the destruction spreads. In cybersecurity, it refers to how many systems, users, or data sets could be affected if something goes wrong.
+
+Examples:
+If a hacker compromises one user account and that account has admin rights across multiple systems, the blast radius is large.
+If the same account is limited to one system, the blast radius is small.
+
+Goal:
+Reduce blast radius by implementing least privilege, network segmentation, microservices, and zero trust models.
+
+-------Surface Risk (Attack Surface Risk)
+Definition:
+Surface risk or attack surface refers to all possible points where an unauthorized user (attacker) could try to enter or extract data from a system.
+
+It includes:
+Open ports
+Public APIs
+Web apps
+User accounts
+Third-party integrations
+Misconfigured cloud resources
+The larger the surface, the more chances for attack.
+
+Goal:
+Minimize surface risk by:
+Closing unused ports and endpoints
+Securing APIs
+Applying security hardening
+Removing unnecessary services
+
+🔑 Key Difference
+Term	Focus	Goal
+Blast Radius	Impact after breach	Limit the spread of damage
+Surface Risk	Entry points before breach	Reduce attack opportunities
+
+🧠 In Practice
+Surface risk is about prevention.
+Blast radius is about damage control.
+Both are core to modern security design, especially in cloud, DevOps, and zero trust environments.
+
+
