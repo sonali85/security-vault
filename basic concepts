@@ -68,3 +68,81 @@ Backed by real-world threat intel
 Supports detection engineering and security automation
 Often integrated into SIEM, XDR, and SOAR tools
 
+
+ TPRM tool -------
+A TPRM tool refers to a Third-Party Risk Management tool — software designed to help organizations identify, assess, monitor, and mitigate risks posed by third-party vendors, partners, or suppliers.
+
+🔐 What is TPRM?
+Third-Party Risk Management (TPRM) is the process of evaluating and managing the risks associated with external vendors who have access to your data, systems, or services.
+These risks can include:
+Security risks (e.g., data breaches)
+Compliance risks (e.g., SOC 2, ISO, GDPR violations)
+Operational risks (e.g., downtime, supply chain issues)
+Reputational risks
+
+🧰 What Does a TPRM Tool Do?
+A TPRM tool typically offers:
+
+Feature	Description
+Vendor Inventory	Track all third parties your company works with.
+Risk Assessments	Send and manage security questionnaires (e.g., SIG, CAIQ).
+Document Management	Collect and store SOC 2, ISO, pen tests, etc.
+Automated Workflows	Streamline vendor onboarding, approvals, and reviews.
+Continuous Monitoring	Track changes in vendor security posture using external signals.
+Reporting & Audit Support	Export evidence and reports for internal/external audits.
+
+🛠 Examples of TPRM Tools
+OneTrust
+SecurityScorecard
+CyberGRX
+RiskRecon
+Prevalent
+Archer
+BitSight
+Panorays
+
+Some compliance automation platforms like Drata, Vanta, and Secureframe also offer basic TPRM features.
+
+✅ Why Use a TPRM Tool?
+Reduces manual effort in vendor reviews
+Improves audit readiness
+Supports regulatory compliance
+Helps prioritize vendors based on actual risk
+
+
+What Is a CISO?
+CISO stands for Chief Information Security Officer — the executive responsible for an organization’s information and cybersecurity strategy.
+
+🔐 Key Responsibilities of a CISO
+Area	Role of the CISO
+Security Strategy	Defines and leads the company’s overall security roadmap.
+Risk Management	Identifies and mitigates cybersecurity risks.
+Policy & Governance	Creates and enforces security policies and compliance.
+Security Operations	Oversees incident response, threat detection, and defense.
+Compliance & Audits	Ensures the organization meets SOC 2, ISO 27001, HIPAA, etc.
+Security Architecture	Approves tools, systems, and infrastructure security.
+Board Reporting	Communicates security posture and risks to executives.
+Team Leadership	Manages security analysts, engineers, and compliance staff.
+
+🧠 What CISOs Care About
+Data protection
+Breach prevention
+Third-party/vendor risk
+Regulatory compliance (e.g., GDPR, SOC 2, ISO)
+Security ROI and metrics
+Secure cloud transformation
+Executive & board communication
+
+🤝 Common Tools CISOs Use
+SIEMs (Splunk, Sumo Logic, etc.)
+TPRM tools (CyberGRX, OneTrust)
+Compliance platforms (Drata, Vanta)
+Vulnerability scanners (Qualys, Tenable)
+EDR/XDR (CrowdStrike, SentinelOne)
+Security dashboards for reporting
+
+🚨 CISO in the Org Chart
+Typically reports to:
+CIO (Chief Information Officer)
+Or directly to the CEO or Board, especially in security-driven organizations.
+
