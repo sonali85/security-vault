@@ -55,4 +55,16 @@ Surface risk is about prevention.
 Blast radius is about damage control.
 Both are core to modern security design, especially in cloud, DevOps, and zero trust environments.
 
+MITRE-based ------
+frameworks refer to cybersecurity models and tools developed or inspired by the MITRE Corporation, a U.S. nonprofit organization known for advancing cybersecurity defense strategies.
+These frameworks are widely used by security teams to understand, detect, and defend against real-world threats.
+
+MITRE-based frameworks help cybersecurity teams better understand attacker behavior (ATT&CK), plan defenses (D3FEND), and engage threats (Engage). 
+They’re foundational for building threat-informed defense strategies.
+
+Why MITRE-Based Frameworks Matter
+Standardized language across the industry for describing threats and defenses
+Backed by real-world threat intel
+Supports detection engineering and security automation
+Often integrated into SIEM, XDR, and SOAR tools
 
